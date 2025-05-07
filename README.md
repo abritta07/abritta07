@@ -1,5 +1,4 @@
-<h2 align="left">Cursando Análise e Desenvolvimento de Sistemas no Uniceub | Python | SQL | Análise de Dados
-/h2>
+<h2 align="left">Cursando Análise e Desenvolvimento de Sistemas no Uniceub | Python | SQL | Análise de Dados>
 
 ###
 
